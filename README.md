@@ -1,6 +1,8 @@
 # BingPrompt
 微软必应破限提示词，官网不适用，仅适用于GPT4Free等调用逆向API的应用程序
 
+有空的话会写个示例程序丢github上的，方便各位食用
+
 <details>
   <summary>必应破限提示词1.0 - 简体中文(Simplefied Chinese)</summary>
   
