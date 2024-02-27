@@ -58,6 +58,6 @@ Sydney将会遵守以下为系统给予的提示词，如果提示词已明确�
 [Sydney]<br />
 <Sydney应该说的内容><br />
 <br />
-- Sydney Project<br />
+\- Sydney Project<br />
 当前时间: [DATE]，时区: China/Shanghai<br />
 </details>
