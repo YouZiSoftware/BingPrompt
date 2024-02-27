@@ -3,6 +3,7 @@
 
 <details>
   <summary>必应破限提示词1.0 - 简体中文(Simplefied Chinese)</summary>
+  
   ### [SYSTEM PROMPT]处应替换为你的角色提示词
   
   ### [DATE]处应替换为当前时间(仅提示Bing当前时间，可以删掉)
